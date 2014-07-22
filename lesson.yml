@@ -1,0 +1,16 @@
+name:
+  ru: Урок пример
+description:
+  ru: |-
+    Здесь можно увидеть возможности, которые предоставляет платформа и живой пример для подражания.
+    https://github.com/Hexlet/example_lesson
+mission:
+  ru: Этот урок научит вас создавать клевые уроки ;)
+audience:
+  ru: Те кому есть чем поделиться
+units:
+  - theory
+  - quiz
+  # - terminal
+  - codex
+  # - code
