@@ -23,9 +23,9 @@ require.config({
 
   // we have to kickoff jasmine, as it is asynchronous
   callback: window.__karma__.start,
-  // paths: {
-  //   "setup": "js/setup",
-  //   "bashInterpreter": "js/bashInterpreter",
-  //   "strings": "js/strings"
-  // }
+  paths: {
+    "terminal/setup": "js/terminal/setup",
+    "terminal/unique_slug": "js/terminal/unique_slug",
+    "terminal/strings": "js/terminal/strings"
+  }
 });

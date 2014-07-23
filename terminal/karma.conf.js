@@ -23,7 +23,7 @@ module.exports = function(config) {
       "bower_components/underscore/underscore.js",
       "bower_components/underscore.string/lib/underscore.string.js",
       "test-main.js",
-      {pattern: "terminal/*.js", included: false},
+      {pattern: "js/terminal/*.js", included: false},
       {pattern: "test/**/*.spec.js", included: false}
     ],
 

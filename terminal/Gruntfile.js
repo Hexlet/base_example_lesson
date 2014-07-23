@@ -17,7 +17,7 @@ module.exports = function(grunt) {
           appDir: "js",
           dir: "dist",
           modules: [{
-            name: "unique_slug"
+            name: "terminal/unique_slug"
           }]
         }
       }
