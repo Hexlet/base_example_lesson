@@ -1,0 +1,11 @@
+{
+  "name": "interactive",
+  "dependencies": {
+    "jquery": "latest",
+    "jquery.terminal": "latest",
+    "i18next": "latest",
+    "underscore": "latest",
+    "underscore.string": "latest",
+    "requirejs": "latest"
+  }
+}

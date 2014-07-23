@@ -1,0 +1,26 @@
+<!DOCTYPE html>  
+<html lang="en">
+    <head>
+        <script src='bower_components/jquery/dist/jquery.js'></script>
+        <script src='bower_components/jquery.terminal/js/jquery.terminal-src.js'></script>
+        <script src='bower_components/i18next/i18next.js'></script>
+        <script src='bower_components/underscore/underscore.js'></script>
+        <script src='bower_components/underscore.string/lib/underscore.string.js'></script>
+        <script data-main="dist/postRequest.js" src="bower_components/requirejs/require.js"></script>
+        <script type="text/javascript">
+            $(function() {
+                requirejs(['postRequest'], function(postRequest) {
+                    var bash = postRequest(
+                        function() {},
+                        function() {}
+                    );
+                    $("#term").terminal(bash.handler, bash.object);
+                });
+            });
+        </script>
+        <link rel="stylesheet" type="text/css" href="bower_components/jquery.terminal/css/jquery.terminal.css">
+    </head>
+    <body>
+        <div id="term"></div>
+    </body>
+</html>

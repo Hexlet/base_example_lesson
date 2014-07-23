@@ -11,6 +11,6 @@ audience:
 units:
   - theory
   - quiz
-  # - terminal
+  - terminal
   - codex
-  # - code
+  - code

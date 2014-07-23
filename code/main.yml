@@ -1,6 +1,7 @@
 name:
-  ru: # FIXME write here
+  ru: Название задачи
 description:
-  ru: # FIXME write here
+  ru: Краткое описание. В includes автоматически включены Makefile, README.md
 
-includes: # FIXME write file list
+includes:
+  - tests.py
