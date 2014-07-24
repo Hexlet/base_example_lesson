@@ -26,6 +26,8 @@ require.config({
   paths: {
     "terminal/setup": "js/terminal/setup",
     "terminal/unique_slug": "js/terminal/unique_slug",
+    "terminal/bash_man": "js/terminal/bash_man",
+    "terminal/bash_date": "js/terminal/bash_date",
     "terminal/strings": "js/terminal/strings"
   }
 });

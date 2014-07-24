@@ -3,6 +3,9 @@
 define({
   en: {
     translation: {
+      "bash_man": {
+        "success": "What manual page do you want?"
+      },
       "bashInterpreterOnStart": "Trying 95.85.32.220...\nConnected to __addr__.\nEscape character is.",
       "bashInterpreterOnStop": "Connection closed by foreign host.",
       "bashInterpreterErrors": {

@@ -18,6 +18,10 @@ module.exports = function(grunt) {
           dir: "dist",
           modules: [{
             name: "terminal/unique_slug"
+          }, {
+            name: "terminal/bash_man"
+          }, {
+            name: "terminal/bash_date"
           }]
         }
       }
