@@ -1,10 +1,10 @@
 name: Урок пример
 language: python
 description:
-  Здесь можно увидеть возможности, которые предоставляет платформа и живой пример для подражания.
-  https://github.com/Hexlet/example_lesson
+  Здесь можно увидеть возможности, которые предоставляет платформа, и живой пример для подражания.
+  https://github.com/Hexlet/example_ru_lesson
 mission: Этот урок научит вас создавать клевые уроки ;)
-audience: Те кому есть чем поделиться
+audience: Те, кому есть чем поделиться
 units:
   - theory
   - quiz
