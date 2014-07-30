@@ -1,6 +1,7 @@
-unique_slug:
-  description: Описание задачи. Наберите `telnet codebattle.io 80`.
-bash_man:
-  description: Описание задачи. Наберите `man`.
-bash_date:
-  description: Описание задачи. Наберите `date`.
+items:
+  unique_slug:
+    description: Описание задачи. Наберите `telnet codebattle.io 80`.
+  bash_man:
+    description: Описание задачи. Наберите `man`.
+  bash_date:
+    description: Описание задачи. Наберите `date`.
