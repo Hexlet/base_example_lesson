@@ -1,27 +1,25 @@
 items:
-  answers_slug:
-    type: answer
+  answer_slug:
     question: Правильный ответ всегда идет первым в yml. При выводе порядок может меняться. Фирштейн?
-    correct_answer: яволь
+    correct_answers:
+      - яволь
     answers:
       - нейн
       - видерхолунг
 
   filling_slug:
-    type: filling
-    question: Скорее всего, тут будет просто указание темы. Конструкция ^(lala) превратится в input, а правильный ответ внутри.
-    source: "Если прислониться ухом к шаурме то можно услышать %{molchanie} ягнят."
-    answers:
+    question: Скорее всего, тут будет просто указание темы. Конструкция %{lala} превратится в input, а правильный ответ внутри.
+    text: "Если прислониться ухом к шаурме то можно услышать %{molchanie} ягнят."
+    correct_answers:
       molchanie: молчание
 
   answers_slug:
-    type: answers
     question: Множественные ответы. Выберите четные
     correct_answers:
-      - 0110
-      - 0100
-      - 0010
+      - "0110"
+      - "0100"
+      - "0010"
     answers:
-      - 0101
-      - 0001
-      - 1001
+      - "0101"
+      - "0001"
+      - "1001"
