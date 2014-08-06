@@ -9,7 +9,12 @@ items:
 
   filling_slug:
     question: Скорее всего, тут будет просто указание темы. Конструкция %{lala} превратится в input.
-    text: "Если прислониться ухом к шаурме то можно услышать %{molchanie} ягнят."
+    text: |-
+      Тут можно использовать `markdown`
+
+          code example
+
+      Если прислониться ухом к шаурме то можно услышать %{molchanie} ягнят.
     correct_answers:
       molchanie: молчание
 
