@@ -1,25 +1,26 @@
 items:
   answer_slug:
-    question: Здесь вопрос. Ниже – допустимые правильные ответы, еще ниже – неправильные ответы.
+    question: This is the question. Below are acceptable correct answers, below that – incorrect answers. Do you understand?
     correct_answers:
-      - яволь
+      - yes!
     answers:
-      - нейн
-      - видерхолунг
+      - no
+      - maybe
+      - sometimes
 
   filling_slug:
-    question: Тут – просто указание темы, заголовок. В тексте ниже конструкция %{lala} превратится в input.
+    question: This is just a title. Every block %{bla} in the text will become a HTML input
     text: |-
-      Тут можно использовать `markdown`
+      You can use `markdown` here
 
           code example
 
-      Если прислониться ухом к шаурме то можно услышать %{molchanie} ягнят.
+      If you want to share your code, %{github_slug} is the place to go.
     correct_answers:
-      molchanie: молчание
+      github_slug: github
 
   answers_slug:
-    question: Множественные ответы. Выберите четные
+    question: Multiple correct answers are possible. Please, choose even numbers
     correct_answers:
       - "0110"
       - "0100"

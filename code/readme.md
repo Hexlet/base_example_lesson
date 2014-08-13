@@ -1,2 +1,2 @@
-### Подробное описание задачи.
-Содержимое этого файла отображается на странице юнита на сайте. Здесь необходимо описать именно то, что надо реализовать.
+### Detailed description of the task
+This description is displayed on the website when user reaches the 'code' unit. Describe the task for the user here.

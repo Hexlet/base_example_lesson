@@ -1,3 +1,3 @@
 video:
-  provider: youtube
-  uid: dQw4w9WgXcQ
+  provider: youtube # we support youtube and vimeo
+  uid: dQw4w9WgXcQ  # video ID (get it from video's url)

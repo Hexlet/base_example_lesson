@@ -1,2 +1,2 @@
-### Расшифровка видео на русском языке
-Тут мы пересказываем то что наговорили на видео
+### Video transcript
+If you want you can add the script of your video here.

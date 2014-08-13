@@ -17,8 +17,8 @@ define({
   ru: {
     translation: {
       "bashInterpreterErrors": {
-        "needAnotherSite": "нам нужно на __addr__",
-        "needAnotherPort": "http сервер находится на 80 порту",
+        "needAnotherSite": "we need to reach __addr__",
+        "needAnotherPort": "http server is on port 80",
         "commandNotFound": ": command not found"
       }
     }

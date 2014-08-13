@@ -1,10 +1,10 @@
-name: Урок пример
+name: Sample lesson
 language: python
 description:
-  Здесь можно увидеть возможности, которые предоставляет платформа, и живой пример для подражания.
-  https://github.com/Hexlet/example_ru_lesson
-mission: Этот урок научит вас создавать клевые уроки ;)
-audience: Те, кому есть чем поделиться
+  This is a sample lesson for lesson developers. It shows how Hexlet platform works and how lessons are built.
+  https://github.com/Hexlet/example_en_lesson
+mission: This lesson will teach your how to create lessons ;)
+audience: Those who want to share their experience
 units:
   - theory
   - quiz

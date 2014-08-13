@@ -1,4 +1,4 @@
-name: Название задачи
+name: Name of the task
 description: |-
-  Каким бы ни было задание, интерфейс взаимодействия с ним строится посредством Makefile: make test для запуска тестов,
-  make install для установки и настройки (см. Makefile) и make run для запуска приложения, если это, конечно, нужно (например, если поднять web-server).
+  Whatever the task is, we use Makefile to interact with it: 'make test' for testing, 'make install' for install and configure (see sample Makefile)
+  and 'make run' if you need to run something (like a web-server).
