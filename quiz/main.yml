@@ -1,15 +1,15 @@
 items:
   answer_slug:
-    question: This is the question. Below are acceptable correct answers, below that – incorrect answers. Do you understand?
+    question: "This is the question. Below are acceptable correct answers, below that – incorrect answers. Do you understand?"
     correct_answers:
-      - yes!
+      - "yes!"
     answers:
-      - no
-      - maybe
-      - sometimes
+      - "no"
+      - "maybe"
+      - "sometimes"
 
   filling_slug:
-    question: This is just a title. Every block %{bla} in the text will become a HTML input
+    question: "This is just a title. Every block %{bla} in the text will become a HTML input"
     text: |-
       You can use `markdown` here
 
@@ -20,7 +20,7 @@ items:
       github_slug: github
 
   answers_slug:
-    question: Multiple correct answers are possible. Please, choose even numbers
+    question: "Multiple correct answers are possible. Please, choose even numbers"
     correct_answers:
       - "0110"
       - "0100"
