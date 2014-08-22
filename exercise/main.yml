@@ -1,0 +1,4 @@
+items:
+  simple_example:
+    name: name
+    description: text
