@@ -8,6 +8,6 @@ audience: Those who want to share their experience
 units:
   - theory
   - quiz
-  - terminal
+  # - terminal
   - codex
   - code
