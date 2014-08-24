@@ -1,4 +1,0 @@
-name: Name of the task
-description: |-
-  Whatever the task is, we use Makefile to interact with it: 'make test' for testing, 'make install' for install and configure (see sample Makefile)
-  and 'make run' if you need to run something (like a web-server).
