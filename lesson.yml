@@ -6,8 +6,8 @@ description:
 mission: This lesson will teach your how to create lessons ;)
 audience: Those who want to share their experience
 units:
-  - backend
   - theory
   - quiz
   # - terminal
   - codex
+  - backend
