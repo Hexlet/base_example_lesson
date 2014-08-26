@@ -1,7 +1,0 @@
-items:
-  unique_slug:
-    description: Descripton of the task. Please, type `telnet codebattle.io 80`.
-  bash_man:
-    description: Descripton of the task. Please, type `man`.
-  bash_date:
-    description: Descripton of the task. Please, type `date`.
