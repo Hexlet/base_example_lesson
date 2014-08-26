@@ -1,4 +1,5 @@
 name: Sample lesson
+locale: en
 language: python
 description:
   This is a sample lesson for lesson developers. It shows how Hexlet platform works and how lessons are built.
