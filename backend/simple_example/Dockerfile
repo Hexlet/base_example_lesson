@@ -1,6 +1,6 @@
 FROM       mokevnin/hexlet-vagrant
-# Dockerfile for 'FROM' directive above this line may be founded in hexlet-vagrant/base_image/Dockerfile
-# it contains a list of preinstalled apps/langs/utils. For example, python already installed.
+# Dockerfile in the 'FROM' directive above can be found in hexlet-vagrant/base_image/Dockerfile
+# it contains a list of preinstalled apps/langs/utils. For example, python is already installed.
 
 RUN apt-get install -y redis-server
 RUN pip install redis
